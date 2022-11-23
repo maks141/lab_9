@@ -1,0 +1,20 @@
+INFO:root:N: 7
+INFO:root:k: 3
+INFO:root:Hidden number: 1
+INFO:root:Try number: 4
+INFO:root:less
+INFO:root:Try number: 2
+INFO:root:less
+INFO:root:Try number: 1
+INFO:root:The user guessed the number
+INFO:root:N: 10
+INFO:root:k: 5
+INFO:root:Hidden number: 8
+INFO:root:Try number: 5
+INFO:root:more
+INFO:root:Try number: 6
+INFO:root:more
+INFO:root:Try number: 7
+INFO:root:more
+INFO:root:Try number: 8
+INFO:root:The user guessed the number
